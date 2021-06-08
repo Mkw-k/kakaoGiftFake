@@ -26,7 +26,7 @@
 		    	        	    'img_url':'https://hwanggu1.github.io/nion-cdn/bhc_1.png', 
 		    	        	    'height' : '200', 
 		    	        	    'width' : '700', 
-		    	        	    'btn_url' : './fake.jsp'
+		    	        	    'btn_url' : './index.jsp'
 		    	        	  }
 		    	        	});
 		    	        
